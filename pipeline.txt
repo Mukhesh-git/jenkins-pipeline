@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Welcome Step') {
             steps { 
-                echo 'Welcome to Ravi Kumar Test'
+                echo 'Welcome to Mukhesh Test'
             }
         }
       }
